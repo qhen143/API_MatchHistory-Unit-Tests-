@@ -1,0 +1,17 @@
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\obj\Debug\netcoreapp2.1\UnitTestMatchHistory.csprojAssemblyReference.cache
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\obj\Debug\netcoreapp2.1\UnitTestMatchHistory.csproj.CoreCompileInputs.cache
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\obj\Debug\netcoreapp2.1\UnitTestMatchHistory.AssemblyInfoInputs.cache
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\obj\Debug\netcoreapp2.1\UnitTestMatchHistory.AssemblyInfo.cs
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\bin\Debug\netcoreapp2.1\UnitTestMatchHistory.deps.json
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\bin\Debug\netcoreapp2.1\UnitTestMatchHistory.runtimeconfig.json
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\bin\Debug\netcoreapp2.1\UnitTestMatchHistory.runtimeconfig.dev.json
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\bin\Debug\netcoreapp2.1\UnitTestMatchHistory.dll
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\bin\Debug\netcoreapp2.1\UnitTestMatchHistory.pdb
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\bin\Debug\netcoreapp2.1\API_MatchHistory.dll
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\bin\Debug\netcoreapp2.1\API_MatchHistory.pdb
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\obj\Debug\netcoreapp2.1\UnitTestMatchHistory.csproj.CopyComplete
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\obj\Debug\netcoreapp2.1\UnitTestMatchHistory.dll
+C:\Users\hengq\source\repos\API_MatchHistory\UnitTestMatchHistory\obj\Debug\netcoreapp2.1\UnitTestMatchHistory.pdb
